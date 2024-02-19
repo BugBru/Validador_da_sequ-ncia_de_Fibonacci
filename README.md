@@ -1,4 +1,4 @@
-# Validador_da_sequ-ncia_de_Fibonacci
+# Validador_da_sequência_de_Fibonacci
 
 def is_fibonacci_number(n):
     a, b = 0, 1
